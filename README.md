@@ -1,1 +1,3 @@
 # web-scrap
+*This short code  was written in order to showcase some basic knowledge of python, pearl and webpage languages like html js etc. Code goal is to download the
+ information of current weather in Poland. Code may seem chaotic,it is due to the chaotic nature of the orginal page, therefore many small tweeks needed to be done in order to properly scrap the information. Pls keep in mind the code scrapes information from real webpage therefore in case the page is  changed the code itself may break. In such even pleaset contact me, I would try to update the code if possible. Even if the code is not update it can still provide some usefull information to the reader/reviewer.*
